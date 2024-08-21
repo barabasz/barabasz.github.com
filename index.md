@@ -6,7 +6,7 @@
 
 ### LUA
 
-- [onecompiler.com/lua(https://onecompiler.com/lua)]
+- [onecompiler.com/lua](https://onecompiler.com/lua)
 
 ### HTML / CSS / JS
 
