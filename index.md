@@ -1,5 +1,3 @@
-# Barabasz's random stuff
-
 ## Playgrounds
 
 ### RegEx
