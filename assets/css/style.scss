@@ -2,3 +2,11 @@
 ---
 
 @import "{{ site.theme }}";
+div#header {height: 80px;}
+div#title {
+  max-width: 650px;
+  margin: 5px auto;
+}
+footer {
+  font-size: 70%;
+}
