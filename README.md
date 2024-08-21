@@ -1,2 +1,2 @@
-# barabasz.github.com
-Barabasz's random stuff
+# Barabasz's random stuff
+
